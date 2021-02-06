@@ -1,0 +1,10 @@
+*.sonar
+/sonar-project.properties
+/application.pid
+*/application.pid
+*.idea
+*.iml
+!.gitignore
+**/target
+**/logs
+.DS_Store
